@@ -23,12 +23,12 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Agoda Clone',
-        projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
-        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
-        code: 'https://github.com/shailendra7518/Agoda-clone',
-        demo: 'https://agoda-clone.vercel.app/',
-        image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
+        projectName: 'DILLI VIBES ',
+        projectDesc: 'lli Vibes is a vibrant hotel and restaurant offering a unique blend of comfortable accommodations and exquisite dining. The website showcases its amenities, menu, and easy booking options for a seamless guest experience',
+        tags: ['RACT','REDUX','NEXT JS','JSX','STRAPE','MONGOOSE'],
+        code: 'https://github.com/',
+        demo: 'https://dillivibes.com',
+        image: 'https://i.ibb.co/Q6Q8rCz/Image-28-11-24-at-6-21-AM.jpg'
     },
     {
         id: 1,
